@@ -16209,6 +16209,7 @@ var bob = {
 
 console.log("Hello JavaScript");
 console.log(datetime);
+console.log(bob);
 
 /***/ })
 /******/ ]);

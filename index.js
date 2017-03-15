@@ -15,3 +15,4 @@ var bob = {
 console.log("Hello JavaScript");
 console.log(datetime);
 console.log(bob);
+console.log("Testing the webpack server!");
