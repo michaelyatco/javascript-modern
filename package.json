@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/michaelyatco/javascript-modern/issues"
   },
-  "homepage": "https://github.com/michaelyatco/javascript-modern#readme"
+  "homepage": "https://github.com/michaelyatco/javascript-modern#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
 }
